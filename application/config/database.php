@@ -142,8 +142,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 */
 
-//Host: mapleleaf_map::nlpb5bFEXw
-
 
 
 $active_group = 'default';
@@ -158,9 +156,9 @@ $db['default'] = array(
 
 	'hostname' => 'localhost',
 
-	'username' => 'maple_data',
+	'username' => 'phungquy',
 
-	'password' => '10fEgROEIauR',
+	'password' => '10fEgROEIauRPq',
 
 	'database' => 'maple_ago',
 
