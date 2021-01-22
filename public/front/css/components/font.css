@@ -1,0 +1,86 @@
+@font-face {
+    font-family: bali;
+    src: url(../../fonts/bali.ttf);
+}
+.bali{
+	font-family: bali;
+}	
+@font-face {
+    font-family: FrederickatheGreat;
+    src: url(../../fonts/FrederickatheGreat-Regular.ttf);
+}
+.FrederickatheGreat{
+	font-family: 'FrederickatheGreat';
+}	
+@font-face {
+    font-family: Cambria;
+    src: url(../../fonts/Cambria.ttf);
+}
+.Cambria{
+	font-family: 'Cambria';
+}	
+
+.fs12px{
+    font-size: 12px;
+}
+.fs13px{
+    font-size: 13px;
+}
+.fs13c5px{
+    font-size: 13.5px;
+}
+.fs14px{
+    font-size: 14px;
+}
+.fs18px{
+    font-size: 18px;
+}
+.fs25px{
+    font-size: 30px;
+}
+.fs20px{
+    font-size: 20px;
+}
+.fs5em{
+    font-size: 5em;
+}
+.fs3em{
+    font-size: 3em;
+}
+.fs1em{
+    font-size: 1em;
+}
+.fs11em{
+    font-size: 1.1sem;
+}
+.fs12em{
+    font-size: 1.2em;
+}
+.fs13em{
+    font-size: 1.3em;
+}
+.fs14em{
+    font-size: 1.4em
+}
+.fs19em{
+    font-size: 1.9em
+}
+.font_bold{
+    font-weight: bold;
+}
+/* BEGIN FONT-GOOGLE */
+.font-Athiti{
+    font-family: 'Athiti', sans-serif;
+}
+.font_Quicksand{
+    font-family: 'Quicksand', sans-serif;    
+}
+.font_Mitr{
+    font-family: 'Mitr', sans-serif;    
+}
+.font_ArchivoBlack{
+    font-family: 'Archivo Black', sans-serif; 
+}
+.font_sans-serif{
+    font-family: sans-serif;
+}

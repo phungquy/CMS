@@ -1,0 +1,22 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-12-27 00:03:19 --> Could not find the language line "Members"
+ERROR - 2020-12-27 02:53:42 --> Could not find the language line "Members"
+ERROR - 2020-12-27 02:53:44 --> Could not find the language line "Members"
+ERROR - 2020-12-27 05:33:46 --> Could not find the language line "Members"
+ERROR - 2020-12-27 05:34:09 --> Could not find the language line "Members"
+ERROR - 2020-12-27 07:50:21 --> Could not find the language line "Members"
+ERROR - 2020-12-27 08:36:17 --> Could not find the language line "Members"
+ERROR - 2020-12-27 08:36:26 --> Could not find the language line "Members"
+ERROR - 2020-12-27 11:53:47 --> Could not find the language line "Members"
+ERROR - 2020-12-27 12:38:23 --> Could not find the language line "Members"
+ERROR - 2020-12-27 14:35:53 --> Could not find the language line "Members"
+ERROR - 2020-12-27 14:35:55 --> Could not find the language line "Members"
+ERROR - 2020-12-27 14:35:58 --> Severity: Compile Error --> Cannot declare class MY_Controllerfront, because the name is already in use /home/maple/agostudy.com/application/core/MY_Controllerfront.php 3
+ERROR - 2020-12-27 14:45:25 --> Could not find the language line "Members"
+ERROR - 2020-12-27 15:37:05 --> Could not find the language line "Members"
+ERROR - 2020-12-27 16:50:51 --> Could not find the language line "Members"
+ERROR - 2020-12-27 19:17:44 --> Could not find the language line "Members"
+ERROR - 2020-12-27 20:25:25 --> Could not find the language line "Members"
+ERROR - 2020-12-27 21:17:01 --> Could not find the language line "Members"
+ERROR - 2020-12-27 21:17:03 --> Could not find the language line "Members"

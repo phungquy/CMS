@@ -1,0 +1,1 @@
+$(document).ready(function(){$(".clear-all").click(function(){var n="Bạn muốn xóa sạch lịch sử hoạt động!";"english"==configs.lang&&(n="Do you want clear all activity history!"),swal({title:n,type:"warning",showCancelButton:!0,confirmButtonColor:"#DD6B55",confirmButtonText:"Yes!"},function(){window.location.href=configs.admin_site+configs.controller+"/clearall"})})});

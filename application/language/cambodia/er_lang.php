@@ -1,0 +1,32 @@
+<?php 
+require APPPATH . '/language/english/master.php';
+$lang['list'] = 'List Evaluate Records';
+$lang['processed'] = 'Processed';
+$lang['noprocess'] = 'No Process';
+$lang['englishlevel'] = 'English level';
+$lang['non'] = 'Non';
+$lang['networth'] = 'Networth';
+$lang['fullname'] = 'Fullname';
+$lang['age'] = 'Age';
+$lang['program'] = 'Program';
+$lang['appointment'] = 'Appointment';
+$lang['sentdate'] = 'Sent date';
+$lang['brief'] = 'Brief';
+$lang['viewprofile'] = 'View profile';
+$lang['infodetail'] = 'Information Details';
+$lang['phone'] = 'Phone';
+$lang['managementexp'] = 'Management Exp.';
+$lang['businessownersexp'] = 'Business owners Exp.';
+$lang['year'] = 'Years';
+$lang['operations'] = 'Operations';
+$lang['send'] = 'Send ';
+$lang['call'] = 'Call';
+$lang['result'] = 'Evaluation results of records';
+$lang['to'] = 'To';
+$lang['subject'] = 'Subject';
+$lang['separated'] = 'Separated by ","';
+$lang['receiver'] = 'receiver';
+$lang['content'] = 'content';
+$lang['sendmail'] = 'Send mail';
+$lang['note'] = 'Note';
+?>

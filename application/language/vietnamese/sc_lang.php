@@ -1,0 +1,33 @@
+<?php 
+require APPPATH . '/language/vietnamese/master.php';
+$lang['list'] = 'Danh sách nội dung đặc biệt';
+$lang['specialcontent'] = 'Nội dung đặc biệt';
+$lang['specialcontentadd'] = 'Thêm nội dung đặc biệt';
+$lang['specialcontenttitle'] = 'Tên nội dung đặc biệt';
+$lang['positioncode'] = 'Mã vị trí';
+$lang['latest'] = 'Mới nhất';
+$lang['oldest'] = 'Cũ nhất';
+$lang['hot'] = 'Nổi bật';
+$lang['mostview'] = 'Xem nhiều nhất';
+$lang['chooseitem'] = 'Chọn phần tử';
+$lang['item'] = 'Phần tử';
+$lang['quantity'] = 'Số lượng';
+$lang['category'] = 'Doanh mục';
+$lang['updatedate'] = 'Ngày cập nhật';
+$lang['by'] = ' bởi ';
+$lang['description'] = 'Mô tả';
+$lang['cachetime'] = 'Thời gian Cache';
+$lang['listitem'] = 'Danh sách phần tử';
+$lang['news'] = 'Bài viết';
+$lang['album'] = 'Bộ ảnh';
+$lang['listCom'] = 'Danh sách ';
+$lang['name'] = 'Tên ';
+$lang['addcontent'] = 'Thêm vào nội dung';
+$lang['selectedlist'] = 'Danh sách đã chọn';
+$lang['deleteall'] = 'Xóa tất cả';
+$lang['itemadded'] = 'Đã thêm ';
+$lang['overload'] = 'Quá tải nội dung';
+$lang['duplicate'] = ' bị trùng';
+$lang['notpermission'] = 'Không có quyền';
+$lang['code'] = 'Mã ';
+?>

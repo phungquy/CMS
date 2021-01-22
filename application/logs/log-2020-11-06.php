@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-06 01:46:56 --> Could not find the language line "Members"
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-06 01:46:56 --> Could not find the language line "Members"
+ERROR - 2020-11-06 01:46:56 --> Could not find the language line "Members"
+ERROR - 2020-11-06 01:46:56 --> Could not find the language line "Members"
+ERROR - 2020-11-06 01:46:56 --> Could not find the language line "Members"
+ERROR - 2020-11-06 01:46:57 --> Could not find the language line "Members"
+ERROR - 2020-11-06 02:17:04 --> Could not find the language line "Members"
+ERROR - 2020-11-06 02:17:04 --> Could not find the language line "Members"
+ERROR - 2020-11-06 07:49:31 --> Could not find the language line "Members"
+ERROR - 2020-11-06 07:49:36 --> Could not find the language line "Members"
+ERROR - 2020-11-06 08:42:52 --> Could not find the language line "Members"
+ERROR - 2020-11-06 09:02:08 --> Could not find the language line "Members"
+ERROR - 2020-11-06 11:34:46 --> Could not find the language line "Members"
+ERROR - 2020-11-06 11:34:46 --> Could not find the language line "Members"
+ERROR - 2020-11-06 11:34:46 --> Severity: Compile Error --> Cannot declare class MY_Controllerfront, because the name is already in use /home/maple/agostudy.com/application/core/MY_Controllerfront.php 0
+ERROR - 2020-11-06 11:35:41 --> Could not find the language line "Members"
+ERROR - 2020-11-06 11:35:41 --> Could not find the language line "Members"
+ERROR - 2020-11-06 13:35:52 --> Could not find the language line "Members"
+ERROR - 2020-11-06 14:13:50 --> Could not find the language line "Members"
+ERROR - 2020-11-06 16:12:58 --> Could not find the language line "Members"
+ERROR - 2020-11-06 17:08:14 --> Could not find the language line "Members"
+ERROR - 2020-11-06 17:19:37 --> Could not find the language line "Members"
+ERROR - 2020-11-06 18:41:11 --> Could not find the language line "Members"
+ERROR - 2020-11-06 19:32:57 --> Could not find the language line "Members"
+ERROR - 2020-11-06 21:59:05 --> Could not find the language line "Members"
+ERROR - 2020-11-06 21:59:05 --> Could not find the language line "Members"
+ERROR - 2020-11-06 21:59:05 --> Could not find the language line "Members"
+ERROR - 2020-11-06 22:36:46 --> Could not find the language line "Members"

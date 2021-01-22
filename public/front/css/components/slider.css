@@ -1,0 +1,77 @@
+/* jssor slider loading skin spin css */
+.jssorl-009-spin img {
+    animation-name: jssorl-009-spin;
+    animation-duration: 1.6s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes jssorl-009-spin {
+    from {
+        transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+    }
+}
+
+
+.jssorb064 {position:absolute;}
+.jssorb064 .i {position:absolute;cursor:pointer;}
+.jssorb064 .i .b {fill:#000;fill-opacity:.5;stroke:#fff;stroke-width:400;stroke-miterlimit:10;stroke-opacity:0.5;}
+.jssorb064 .i:hover .b {fill-opacity:.8;}
+.jssorb064 .iav .b {fill:#ffe200;fill-opacity:1;stroke:#ffaa00;stroke-opacity:.7;stroke-width:2000;}
+.jssorb064 .iav:hover .b {fill-opacity:.6;}
+.jssorb064 .i.idn {opacity:.3;}
+
+.jssora051 {display:block;position:absolute;cursor:pointer;}
+.jssora051 .a {fill:none;stroke:#fff;stroke-width:360;stroke-miterlimit:10;}
+.jssora051:hover {opacity:.8;}
+.jssora051.jssora051dn {opacity:.5;}
+.jssora051.jssora051ds {opacity:.3;pointer-events:none;}
+
+.slider .item>div {
+    position: absolute;
+    background-size: cover;
+    background-position: center center;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+.slider .item .item-text {
+    margin: auto;
+    text-align: center;
+    max-width: 1100px;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+    align-items: center;
+    display: flex;
+}
+.slider .item .item-text .link{
+    margin: auto;
+}
+.slider .item .item-text .table-container{
+    height: auto;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 30px;
+    position: relative;
+}
+.slider .item .item-text .table-container .table-inner{
+  margin-top: 0px !important;
+  margin-right: auto !important;
+  margin-bottom: 0px !important;
+  margin-left: auto !important;
+  padding-top: 80px !important;
+  padding-bottom: 90px !important;
+  width: 70% !important;
+  box-shadow: 0 0 30px rgba(0,0,0,0.5) !important;
+  border-radius: 50px 0;
+}

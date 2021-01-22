@@ -1,0 +1,1 @@
+có <?=$page_detail?>

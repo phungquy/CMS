@@ -1,0 +1,11 @@
+.review_css .x_title h2 {
+    font-size: 20px;
+    white-space: pre-wrap;
+}
+.review_css figure figcaption {
+    text-align: center;
+}
+.review_css figure {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}

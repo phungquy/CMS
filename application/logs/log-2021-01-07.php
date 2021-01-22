@@ -1,0 +1,28 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-01-07 00:33:31 --> Could not find the language line "Members"
+ERROR - 2021-01-07 01:10:40 --> Could not find the language line "Members"
+ERROR - 2021-01-07 01:42:38 --> Could not find the language line "Members"
+ERROR - 2021-01-07 01:42:40 --> Could not find the language line "Members"
+ERROR - 2021-01-07 01:42:42 --> Severity: Compile Error --> Cannot declare class MY_Controllerfront, because the name is already in use /home/maple/agostudy.com/application/core/MY_Controllerfront.php 3
+ERROR - 2021-01-07 03:11:57 --> Could not find the language line "Members"
+ERROR - 2021-01-07 05:22:50 --> Could not find the language line "Members"
+ERROR - 2021-01-07 05:46:08 --> Could not find the language line "Members"
+ERROR - 2021-01-07 05:46:11 --> Could not find the language line "Members"
+ERROR - 2021-01-07 05:46:11 --> Could not find the language line "Members"
+ERROR - 2021-01-07 05:46:12 --> Could not find the language line "Members"
+ERROR - 2021-01-07 08:57:29 --> Could not find the language line "Members"
+ERROR - 2021-01-07 08:57:29 --> Could not find the language line "Members"
+ERROR - 2021-01-07 08:57:29 --> Could not find the language line "Members"
+ERROR - 2021-01-07 10:26:11 --> Could not find the language line "Members"
+ERROR - 2021-01-07 12:42:51 --> Could not find the language line "Members"
+ERROR - 2021-01-07 14:04:38 --> Could not find the language line "Members"
+ERROR - 2021-01-07 14:04:38 --> Could not find the language line "Members"
+ERROR - 2021-01-07 14:04:38 --> Could not find the language line "Members"
+ERROR - 2021-01-07 17:00:39 --> Could not find the language line "Members"
+ERROR - 2021-01-07 17:16:24 --> Severity: Compile Error --> Cannot declare class MY_Controllerfront, because the name is already in use /home/maple/agostudy.com/application/core/MY_Controllerfront.php 3
+ERROR - 2021-01-07 19:59:12 --> Could not find the language line "Members"
+ERROR - 2021-01-07 20:05:03 --> Could not find the language line "Members"
+ERROR - 2021-01-07 23:34:39 --> Could not find the language line "Members"
+ERROR - 2021-01-07 23:43:44 --> Could not find the language line "Members"
+ERROR - 2021-01-07 23:43:46 --> Could not find the language line "Members"

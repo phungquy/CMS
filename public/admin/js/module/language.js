@@ -1,0 +1,1 @@
+function readURL(a){if(a.files&&a.files[0]){var e=new FileReader;e.onload=function(a){$("#showflag").attr("src",a.target.result)},e.readAsDataURL(a.files[0])}}$("#uploadflag").change(function(){readURL(this)});

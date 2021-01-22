@@ -1,0 +1,1 @@
+function readURL(a){if(a.files&&a.files[0]){var e=new FileReader;e.onload=function(a){$("#showavatar").attr("src",a.target.result)},e.readAsDataURL(a.files[0])}}$("#uploadavatar").change(function(){readURL(this)}),$("#changepass").on("ifChecked",function(){$(".pass").prop("disabled",!1)}),$("#changepass").on("ifUnchecked",function(){$(".pass").prop("disabled",!0)});
